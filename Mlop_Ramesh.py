@@ -1,5 +1,7 @@
 import os
 from glob import glob
+
+
 data_dirs = ["Training_Batch_Files","Prediction_Batch_files"]
 
 for data_dir in data_dirs:
