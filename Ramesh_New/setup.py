@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Practice',
+    description='Mlops_Practicxe',
     author='Ramesh Naidu',
     license='MIT',
 )
